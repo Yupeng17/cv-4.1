@@ -310,4 +310,8 @@ a:hover {
 #projects123 .row {
   margin-right: 50px !important;
 }
+  
+body {
+  width: 150%;
+}
 }
